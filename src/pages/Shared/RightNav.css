@@ -1,0 +1,7 @@
+.image{
+    background-image: url('../../assets//bg.png');
+    padding: 20px;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+}
